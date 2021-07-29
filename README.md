@@ -1,5 +1,4 @@
-[![Contact me on Codementor](https://www.codementor.io/m-badges/gurghet2/book-session.svg)](https://www.codementor.io/@gurghet2?refer=badge)
-
+[![Contact me on Codementor](https://www.codementor.io/m-badges/gurghet2/im-a-cm-b.svg)](https://www.codementor.io/@gurghet2?refer=badge)
 <!--
 **gurghet/gurghet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
